@@ -44,7 +44,7 @@ Notes_API/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone <(https://github.com/PrachiDhiman5/Notes_API.git)>
 cd Notes_API
 ```
 
